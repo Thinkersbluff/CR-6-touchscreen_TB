@@ -56,4 +56,6 @@ ProVersion=641
 79=79_E_adjust_other.bmp
 80=80_Calibrate.bmp
 81=81_RGB.bmp
+82=82_Host_printing.bmp
+83=83_Host_print_paused.bmp
 84=84_E_ProbeCalibration.bmp
